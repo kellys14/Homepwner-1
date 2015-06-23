@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Homepwner.xcodeproj">
+      location = "self:/Users/robinsonbc/Documents/apps/trainings/ios/staging area/Homepwner-Ch17/Homepwner.xcodeproj">
    </FileRef>
 </Workspace>

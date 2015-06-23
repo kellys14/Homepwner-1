@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5HO-dR-hlW"; */
+"5HO-dR-hlW.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Zp3-Od-g7y"; */
+"Zp3-Od-g7y.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Serial"; ObjectID = "pVg-kT-hf0"; */
+"pVg-kT-hf0.text" = "Número de serie";
+
+/* Class = "UIButton"; normalTitle = "Change Date"; ObjectID = "reZ-1S-Dzv"; */
+"reZ-1S-Dzv.normalTitle" = "Cambiar fecha";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "ucp-AL-OrV"; */
+"ucp-AL-OrV.text" = "Valor";

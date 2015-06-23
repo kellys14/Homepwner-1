@@ -3,7 +3,7 @@
 //  HomepwnerTests
 //
 //  Created by Bryan Robinson on 6/9/15.
-//  Copyright (c) 2015 LDS Missionary. All rights reserved.
+//  Copyright (c) 2015 Bryan Robinson. All rights reserved.
 //
 
 import UIKit
